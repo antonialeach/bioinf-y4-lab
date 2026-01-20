@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+       Brain       0.84      1.00      0.92        81
+       Heart       0.98      0.86      0.92        70
+      Kidney       0.99      1.00      0.99        81
+       Liver       1.00      0.97      0.99        78
+        Lung       1.00      0.92      0.96        63
+
+    accuracy                           0.95       373
+   macro avg       0.96      0.95      0.95       373
+weighted avg       0.96      0.95      0.95       373

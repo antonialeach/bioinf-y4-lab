@@ -1,0 +1,30 @@
+Exercise 8b Comparison Report
+Handle: LeachAntonia
+
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+       Brain       0.81      1.00      0.90        81
+       Heart       1.00      0.93      0.96        70
+      Kidney       0.95      1.00      0.98        81
+       Liver       1.00      0.97      0.99        78
+        Lung       1.00      0.75      0.85        63
+
+    accuracy                           0.94       373
+   macro avg       0.95      0.93      0.94       373
+weighted avg       0.95      0.94      0.94       373
+
+
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+       Brain       1.00      1.00      1.00        81
+       Heart       1.00      1.00      1.00        70
+      Kidney       1.00      1.00      1.00        81
+       Liver       1.00      1.00      1.00        78
+        Lung       1.00      1.00      1.00        63
+
+    accuracy                           1.00       373
+   macro avg       1.00      1.00      1.00       373
+weighted avg       1.00      1.00      1.00       373
+
