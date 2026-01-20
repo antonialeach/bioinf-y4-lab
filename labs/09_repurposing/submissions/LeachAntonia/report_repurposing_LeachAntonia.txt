@@ -1,0 +1,26 @@
+Acest raport analizează o rețea de 25 de medicamente și interacțiunile lor genetice pentru a identifica noi utilizări posibile (repurposing) în contextul bolii studiate.
+
+1. Analiza Rețelei
+Am analizat câte gene (ținte) influențează fiecare medicament. Cu cât un medicament are mai multe ținte, cu atât poate avea un impact mai complex.
+
+Imatinib este cel mai "activ" medicament, vizând 14 gene (inclusiv PTEN și VEGFA).
+
+Alte medicamente foarte conectate sunt Omeprazole (13 ținte) și Tramadol (13 ținte).
+
+În total, rețeaua conține 25 de interacțiuni drug-gene.
+
+2. Similaritate
+Am căutat medicamente care au ținte comune, ceea ce sugerează că ar putea avea efecte similare.
+
+Cea mai mare similaritate (75%) a fost găsită între Dexamethasone și Ibuprofen.
+
+Alte perechi notabile sunt Sorafenib - Sunitinib (40%) și Bevacizumab - Omeprazole (25%).
+
+3. Prioritate
+Am calculat care medicamente sunt cel mai aproape de genele specifice bolii. Cu cât distanța este mai mică, cu atât medicamentul este un candidat mai bun.
+
+Aspirin  - Este cel mai apropiat medicament de boală, având 4 ținte directe în rețeaua bolii.
+Baricitinib- Un medicament antiinflamator puternic.
+Prednisone - Un corticosteroid folosit pentru reducerea inflamației.
+
+Medicamentele precum Gefitinib și Infliximab sunt cele mai "îndepărtate" de genele bolii în această analiză, având șanse mici de a fi eficiente pentru acest scop specific.
