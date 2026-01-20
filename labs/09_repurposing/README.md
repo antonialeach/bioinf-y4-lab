@@ -90,8 +90,7 @@ Pentru 3–5 gene asociate cu o boală:
 - Construirea rețelelor bipartite drug–gene.  
 - Definirea metodelor de similaritate și distanță.  
 - Calculul centralității și al proximității în rețele complexe.  
-- Aplicarea metodelor moderne folosite în repurposing.  
-c
+- Aplicarea metodelor moderne folosite în repurposing.
 
 ---
 
